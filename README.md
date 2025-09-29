@@ -1,7 +1,5 @@
 # Goolegle_Search_Analysis_Project
 This project uses the pytrends library to analyze Google search trends. It shows keyword popularity by country and over time with charts and interactive world maps, and supports multi-keyword comparisons using Matplotlib, Seaborn, and Plotly.
-# Google Trends Analysis with Pytrends
-
 A Jupyter Notebook project to explore and visualize Google search trends.  
 It uses the `pytrends` library to fetch keyword interest data and display insights such as top countries, global heatmaps, time-series plots, and keyword comparisons.
 
